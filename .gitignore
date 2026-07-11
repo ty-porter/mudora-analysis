@@ -3,8 +3,8 @@ games.json
 item_map.json
 alttpr.csv
 
-# Screenshots
-*.png
+# Screenshot outputs
+outputs*
 
 # Mudora binary
 mudora*
